@@ -42,3 +42,4 @@ Customer Satisfaction: Monitor customer satisfaction metrics and identify areas 
 #### **Dashboard JPG and Insight 🚀**
 
 
+![Screenshot (211)](https://github.com/vasa4k/Telecom-Customer-Churn-Dashboard-/assets/74816653/ddbda7fd-a094-437c-bd99-35f3db206ef3)
