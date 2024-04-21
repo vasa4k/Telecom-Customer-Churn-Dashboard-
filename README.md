@@ -8,26 +8,26 @@ Customer churn, or the rate at which customers leave a service, is a critical me
 #### **Dataset** 📝
 The dataset used for this project includes the following columns:
 
-**customerID**: Unique identifier for each customer,
-**gender**: Gender of the customer,
-**SeniorCitizen**: Indicates if the customer is a senior citizen (1) or not (0),
-**Partner**: Indicates if the customer has a partner (Yes/No),
-**Dependents**: Indicates if the customer has dependents (Yes/No),
-**tenure**: Number of months the customer has stayed with the company,
-**PhoneService**: Indicates if the customer has a phone service (Yes/No),
-**MultipleLines**: Indicates if the customer has multiple lines (Yes/No),
-**InternetService**: Type of internet service subscribed by the customer (DSL, Fiber optic, No),
-**OnlineSecurity**: Indicates if the customer has online security service (Yes/No),
-**OnlineBackup**: Indicates if the customer has online backup service (Yes/No),
-**DeviceProtection**: Indicates if the customer has device protection service (Yes/No),
-**TechSupport**: Indicates if the customer has tech support service (Yes/No),
-**StreamingTV**: Indicates if the customer has streaming TV service (Yes/No),
-**StreamingMovies**: Indicates if the customer has streaming movies service (Yes/No),
-**Contract**: Type of contract subscribed by the customer (Month-to-month, One year, Two year),
-**PaperlessBilling**: Indicates if the customer has paperless billing (Yes/No),
-**PaymentMethod**: Payment method used by the customer (Electronic check, Mailed check, Bank transfer (automatic), Credit card (automatic))
-**MonthlyCharges**: Monthly charges incurred by the customer,
-**TotalCharges**: Total charges incurred by the customer,
+**customerID**: Unique identifier for each customer,<br>
+**gender**: Gender of the customer,<br>
+**SeniorCitizen**: Indicates if the customer is a senior citizen (1) or not (0),<br>
+**Partner**: Indicates if the customer has a partner (Yes/No),<br>
+**Dependents**: Indicates if the customer has dependents (Yes/No),<br>
+**tenure**: Number of months the customer has stayed with the company,<br>
+**PhoneService**: Indicates if the customer has a phone service (Yes/No),<br>
+**MultipleLines**: Indicates if the customer has multiple lines (Yes/No),<br>
+**InternetService**: Type of internet service subscribed by the customer (DSL, Fiber optic, No),<br>
+**OnlineSecurity**: Indicates if the customer has online security service (Yes/No),<br>
+**OnlineBackup**: Indicates if the customer has online backup service (Yes/No),<br>
+**DeviceProtection**: Indicates if the customer has device protection service (Yes/No),<br>
+**TechSupport**: Indicates if the customer has tech support service (Yes/No),<br>
+**StreamingTV**: Indicates if the customer has streaming TV service (Yes/No),<br>
+**StreamingMovies**: Indicates if the customer has streaming movies service (Yes/No),<br>
+**Contract**: Type of contract subscribed by the customer (Month-to-month, One year, Two year),<br>
+**PaperlessBilling**: Indicates if the customer has paperless billing (Yes/No),<br>
+**PaymentMethod**: Payment method used by the customer (Electronic check, Mailed check, Bank transfer (automatic), Credit card (automatic))<br>
+**MonthlyCharges**: Monthly charges incurred by the customer,<br>
+**TotalCharges**: Total charges incurred by the customer,<br>
 **Churn**: Indicates if the customer has churned (Yes/No).
 
 
